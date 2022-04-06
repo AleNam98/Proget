@@ -23,7 +23,7 @@ A 973 K è stata aggiunta un ulteriore contributo Voigt a 398.4 eV, associato ad
 
  
 
-Figura 3.2 Spettri relativi allo studio dei livelli di core N 1s del sistema FeTPyP/Gr/Ir(111) da temperatura ambiente a 973 K. Colori delle linee: il verde si riferisce all'azoto pirrolico, magenta all’azoto piridilico e rosso al picco satellite. L'intensità degli spettri a 648 K ,698 K e 973 K è stata moltiplicata per un fattore pari a 4 per rendere lo  comprensibile.
+Figura 3.2 Spettri relativi allo studio dei livelli di core N 1s del sistema FeTPyP/Gr/Ir(111) da temperatura ambiente a 973 K. Colori delle linee: il verde si riferisce all'azoto pirrolico, magenta all’azoto piridilico e rosso al picco satellite. L'intensità degli spettri a 648 K ,698 K e 973 K è stata moltiplicata per un fattore pari a 4 per rendere lo spettro più comprensibile.
     
       Per entrambi i sistemi le intensità delle componenti spettroscopiche fino a 548 K si sono mantenute circa costanti, chiaro segno di stabilità dei due sistemi.
       A temperature molto elevate vediamo che tale intensità tende a diminuire segnale di desorbimento delle porfirine dal grafene, mentre la comparsa di altre specie di N indica la degradazione delle molecole dal grafene.
